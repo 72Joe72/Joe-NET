@@ -17,3 +17,19 @@ C:\Users\Janis\AppData\Local\Temporary Projects\joe-net\obj\Debug\joe_net.Host_C
 C:\Users\Janis\AppData\Local\Temporary Projects\joe-net\obj\Debug\joe_net.Host.resources
 C:\Users\Janis\AppData\Local\Temporary Projects\joe-net\obj\Debug\joe_net.Client.resources
 C:\Users\Janis\AppData\Local\Temporary Projects\joe-net\obj\Debug\joe_net.Join.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.vbprojAssemblyReference.cache
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.Client.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.fmsg_Pro.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.Hauptmenue.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.Host.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.Join.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe_net.Resources.resources
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.vbproj.GenerateResource.cache
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.vbproj.CoreCompileInputs.cache
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.exe
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.xml
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\obj\Debug\joe-net.pdb
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\bin\Debug\joe-net.exe.config
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\bin\Debug\joe-net.exe
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\bin\Debug\joe-net.pdb
+C:\Users\Janis\Source\Repos\Joe-NET\joe-net\bin\Debug\joe-net.xml

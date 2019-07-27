@@ -22,7 +22,7 @@ joe-net
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
-<member name="P:joe_net.My.Resources.Resources.Server_P8888Hidden">
+<member name="P:joe_net.My.Resources.Resources.Joe_Net_ServerH">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Byte[].
 </summary>

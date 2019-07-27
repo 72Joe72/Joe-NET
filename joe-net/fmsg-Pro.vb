@@ -30,6 +30,8 @@
             Dim list As String
             list = L_SN.Text + ";" + TB_Name.Text
             My.Computer.FileSystem.WriteAllText(Hauptmenue.YourPath + "\pro.joe", list, True)
+            MsgBox("Um die änderungen zu Speichern wird musst du das Programm Neu starten")
+
             Me.Close()
         End If
 

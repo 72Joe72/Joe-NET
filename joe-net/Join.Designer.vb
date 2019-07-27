@@ -66,6 +66,7 @@ Partial Class Join
         Me.Tb_IP.Name = "Tb_IP"
         Me.Tb_IP.Size = New System.Drawing.Size(158, 20)
         Me.Tb_IP.TabIndex = 2
+        Me.Tb_IP.Text = "localhost"
         '
         'TB_Port
         '
@@ -73,6 +74,7 @@ Partial Class Join
         Me.TB_Port.Name = "TB_Port"
         Me.TB_Port.Size = New System.Drawing.Size(158, 20)
         Me.TB_Port.TabIndex = 2
+        Me.TB_Port.Text = "8888"
         '
         'B_Connect
         '

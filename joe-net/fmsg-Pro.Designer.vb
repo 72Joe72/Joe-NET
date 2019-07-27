@@ -98,7 +98,7 @@ Partial Class fmsg_Pro
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.TB_Name)
         Me.Name = "fmsg_Pro"
-        Me.Text = "fmsg_Pro"
+        Me.Text = "Profil erstellen"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
